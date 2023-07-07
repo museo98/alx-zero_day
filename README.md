@@ -1,2 +1,1 @@
-My first readme 
-REDME update from github
+coding in python is fun.
